@@ -1,22 +1,16 @@
 
-![Banner](.github/banner.jpg)
 [![codecov](https://codecov.io/gh/0xPolygon/polygon-edge/branch/develop/graph/badge.svg?token=PXEADRC1IW)](https://codecov.io/gh/0xPolygon/polygon-edge)
-## Polygon Edge
+## Deep Learning CHain
 
-Polygon Edge is a modular and extensible framework for building Ethereum-compatible blockchain networks.
+Deep Learning Chain (DLC) is a Layer 2 blockchain platform that is EVM Compatible and is augmented by voice automation and artificial intelligence. It has a Proof-of-Authority consensus mechanism, and it is permissionless, meaning anyone can create a new account or transaction on the network.
+Deep Learning Chain is built on 0xPolygon's Polygon Edge which is a modular and extensible framework for building Ethereum-compatible blockchain networks.
 
 To find out more about Polygon, visit the [official website](https://polygon.technology/).
 
-WARNING: This is a work in progress so architectural changes may happen in the future. The code has not been audited yet, so please contact [Polygon Edge team](mailto:edge@polygon.technology) if you would like to use it in production.
-
-## Documentation 📝
-
-If you'd like to learn more about the Polygon Edge, how it works and how you can use it for your project,
-please check out the **[Polygon Edge Documentation](https://docs.polygon.technology/docs/edge/overview/)**.
 
 ---
 
-Copyright 2022 Polygon Technology
+Copyright 2023 DLC
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
